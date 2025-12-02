@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **SaaS project**
 
-- 💬 Ask me about **frontend developer**
+- 💬 Ask me about **web developer**
 
 - 📫 How to reach me **wldanrb@gmail.com**
 
